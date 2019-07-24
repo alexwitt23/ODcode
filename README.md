@@ -3,7 +3,8 @@ Few scripts to use google object detection API
 
 # Input
 Read .json files per image of the form:
-```{
+```
+{
     "imageHeight": 512,
     "imageWidth": 512,
     "bboxes": [
